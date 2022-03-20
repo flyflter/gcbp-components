@@ -1,5 +1,5 @@
 {
-  "name": "web-components",
+  "name": "gcmbp-web-components",
   "version": "0.0.2-alpha.0",
   "private": false,
   "main": "dist/web-components.umd.js",
@@ -48,5 +48,5 @@
     "last 2 versions",
     "not dead"
   ],
-  "gitHead": "fa5238874f1f076d2d564533597aa9822f9f7d9c"
+  "gitHead": "ef14f7a36e49f396b2f5dcbf2bc4571f62462a5a"
 }
