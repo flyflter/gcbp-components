@@ -1,6 +1,6 @@
 {
   "name": "gcmbp-web-input",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "main": "dist/gcmbp-web-input.umd.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "gcmbp-web-components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "main": "dist/web-components.umd.js",
   "scripts": {
