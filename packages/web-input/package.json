@@ -2,7 +2,7 @@
   "name": "gcmbp-web-input",
   "version": "0.0.3",
   "private": false,
-  "main": "dist/web-components.umd.js",
+  "main": "dist/gcmbp-web-input.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
